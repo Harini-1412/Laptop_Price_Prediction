@@ -8,7 +8,9 @@ The project involves building and evaluating multiple models, including Linear R
 2. Brand Influence: Evaluate the effect of brand reputation on pricing to gain insights into brand perception and demand.
 
 **Key Challenges:**
+
 1.Diverse Specifications: The dataset includes laptops with a wide range of features, making it challenging to build a model that generalizes well.
+
 2.Real-time Prediction: The model needs to predict prices for new laptop releases, reflecting the fast-paced tech industry.
 
 **Project Phases:**
@@ -32,7 +34,7 @@ The project involves building and evaluating multiple models, including Linear R
   Implementation: Enabled the model to make predictions for newly released laptops.
 
 **Tools and Technologies:**
-Google Colab: Platform used for model development and experimentation.
-Machine Learning Algorithms: Linear Regression, Random Forest, Gradient Boosting.
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn.
+1.Google Colab: Platform used for model development and experimentation.
+2.Machine Learning Algorithms: Linear Regression, Random Forest, Gradient Boosting.
+3.Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn.
 

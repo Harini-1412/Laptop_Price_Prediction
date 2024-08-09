@@ -1,17 +1,17 @@
 # Laptop_Price_Prediction
 
-Project Overview:
+**Project Overview:**
 The project involves building and evaluating multiple models, including Linear Regression, Random Forest, and Gradient Boosting to forecast laptop prices based on various features. The dataset features diverse laptop specifications, and the goal is to provide accurate price predictions.
 
-Objectives:
+**Objectives:**
 1. Accurate Pricing: Develop a predictive model that accurately forecasts laptop prices based on various features.
 2. Brand Influence: Evaluate the effect of brand reputation on pricing to gain insights into brand perception and demand.
 
-Key Challenges:
+**Key Challenges:**
 1.Diverse Specifications: The dataset includes laptops with a wide range of features, making it challenging to build a model that generalizes well.
 2.Real-time Prediction: The model needs to predict prices for new laptop releases, reflecting the fast-paced tech industry.
 
-Project Phases:
+**Project Phases:**
 1. Data Exploration and Understanding
   Dataset Overview: Explored the dataset to understand the range of laptop specifications and pricing.
   Trend Visualization: Visualized trends in laptop prices and identified key features influencing prices.
@@ -31,7 +31,7 @@ Project Phases:
 6. Real-time Predictions
   Implementation: Enabled the model to make predictions for newly released laptops.
 
-Tools and Technologies:
+**Tools and Technologies:**
 Google Colab: Platform used for model development and experimentation.
 Machine Learning Algorithms: Linear Regression, Random Forest, Gradient Boosting.
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn.

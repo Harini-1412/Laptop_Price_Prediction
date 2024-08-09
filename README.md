@@ -35,6 +35,8 @@ The project involves building and evaluating multiple models, including Linear R
 
 **Tools and Technologies:**
 1.Google Colab: Platform used for model development and experimentation.
+
 2.Machine Learning Algorithms: Linear Regression, Random Forest, Gradient Boosting.
+
 3.Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn.
 
